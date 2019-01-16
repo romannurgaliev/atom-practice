@@ -1,0 +1,10 @@
+h1,
+    h2,
+    p,
+    th,
+    td {
+      font-family: 'Lato', sans-serif;
+      color: rgba(0, 0, 0, 0.87);
+      padding: 8px;
+      text-align: left;
+    }
